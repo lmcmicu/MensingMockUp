@@ -2,8 +2,9 @@
 
 # Flat file installation
 
-1. Go to https://github.com/lmcmicu/MensingMockUp/releases in your browser, download the .zip file associated with the most recent release to a folder on your computer, and unzip the file.
+1. Go to https://github.com/lmcmicu/MensingMockUp/releases in your browser, download the file: `mensing_web_exhibit_example-<date>.zip` associated with the most recent release to a folder on your computer, and unzip the file. Note that you do not need to download `static.zip`.
 2. Open the file `index.html` in your favourite browser.
+3. That's all.
 
 # Server Installation
 
